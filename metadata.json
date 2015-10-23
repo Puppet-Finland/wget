@@ -1,0 +1,12 @@
+{
+  "name": "puppetfinland-wget",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Setup wget",
+  "source": "https://github.com/Puppet-Finland/wget.git",
+  "project_page": "https://github.com/Puppet-Finland/wget",
+  "dependencies": [
+    { "name": "puppetlabs/stdlib", "version_requirement": ">= 4.0.0" }
+  ]
+}
